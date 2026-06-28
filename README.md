@@ -26,16 +26,6 @@
 
 ---
 
-## Screenshots
-
-> _(Add screenshots to `/assets/screenshots/` in the repo)_
-
-| Light mode | Dark mode | Settings page |
-|-----------|-----------|--------------|
-| ![Light]() | ![Dark]() | ![Settings]() |
-
----
-
 ## Installation
 
 ### From ZIP
